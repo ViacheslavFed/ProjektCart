@@ -1,0 +1,14 @@
+
+.ca_cart{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.cart_button{
+    height: 30px;
+    width: 100%;
+    font-size: 15px;
+    background-color: rgb(144, 175, 207);
+    border-radius: 50%;
+    border: none;
+}
